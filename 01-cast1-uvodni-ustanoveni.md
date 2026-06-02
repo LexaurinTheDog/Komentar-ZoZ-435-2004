@@ -1,4 +1,4 @@
-# Část první — Úvodní ustanovení (§§ 1–13)
+# Část první — Úvodní ustanovení (§§ 1–12)
 
 > **Téma kapitoly:** Část první zákona č. 435/2004 Sb., o zaměstnanosti (dále jen „ZoZ"), pokrývá §§ 1–13 a tvoří pojmový a institucionální základ celého zákona. Hlava I (§ 1) vymezuje předmět úpravy a deklaruje zapracování práva Evropské unie. Hlava II (§§ 2–5b) stanoví obsah státní politiky zaměstnanosti, okruh účastníků právních vztahů, zásadu rovného zacházení a zákaz diskriminace a zavádí klíčové legislativní zkratky včetně pojmu **nelegální práce**. Hlavy III a IV (§§ 6–8a) vymezují působnost dvou správních orgánů — **Ministerstva práce a sociálních věcí** (dále jen „ministerstvo") a **Úřadu práce České republiky** (dále jen „Úřad práce"). Hlava V (§ 9) upravuje součinnost poskytovatelů zdravotních služeb. Hlava VI (§§ 10–13) zakotvuje subjektivní **právo na zaměstnání**, svobodu volby zaměstnání a pravidla pro nabídky zaměstnání a výběr zaměstnanců. Klíčové průřezové instituty: zásada rovného zacházení provázaná s antidiskriminačním zákonem (zákon č. 198/2009 Sb.) a se směrnicemi EU, volný pohyb pracovníků (čl. 45 SFEU), definice nelegální a nehlášené práce a jejich sankční důsledky. Zprostředkování zaměstnání jako navazující téma viz [02-cast2-zprostredkovani-zamestnani.md](02-cast2-zprostredkovani-zamestnani.md).
 
@@ -829,17 +829,4 @@ Výjimka platí, pokud zvláštní právní předpis vyžadování takových inf
 
 ---
 
-### § 13 — (Část druhá — přechod)
-
-> **§ 13** — *Ustanovení § 13 tvoří součást části druhé zákona (ČÁST DRUHÁ). Zákonný text § 13 bezprostředně navazuje na ustanovení týkající se zprostředkování zaměstnání. Viz [02-cast2-zprostredkovani-zamestnani.md](02-cast2-zprostredkovani-zamestnani.md).*
-
-> **Poznámka autora:** V členění zdrojového textu (doc SB-2004-00435_2026-01-01) § 13 spadá do části druhé zákona, nikoli do části první. Část první (§§ 1–12) v zákoně formálně končí § 12 odst. 2. Na řádku 418 zdrojového textu začíná „ČÁST DRUHÁ". Kapitola proto pokrývá §§ 1–12 jako úvodní ustanovení a § 13 je součástí kapitoly věnované zprostředkování zaměstnání.
-
-**Judikatura (z místních zdrojů):**
-
-- *NS* [21 Cdo 2128/2019](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/4F3B030BDBCCE803C1258551002E90D9?openDocument) — 29. 1. 2020, kat. A
-  > „Zaměstnavatelé mohou plnění běžných úkolů vyplývajících z předmětu jejich činnosti (stejně jako plnění ostatních úkolů) zajišťovat i jinak než prostřednictvím osob zaměstnávaných v základním pracovněprávním vztahu, nejde-li o výkon závislé práce na základě smluv (dohod), jimiž se zakládají jiné než pracovněprávní vztahy. Právnické a fyzické osoby provozující činnost, při které pořádají umělecká představení, mohou rozhodnout o tom, že činnost dosud zajišťovanou prostřednictvím výkonných umělců zaměstnávaných v základním pracovněprávním vztahu budou nadále zabezpečovat na základě občanskoprávních smluv (dohod) uzavíraných s výkonnými umělci (aniž by šlo o výkon závislé práce), popřípadě s menším počtem zaměstnávaných výkonných umělců při zvýšení počtu těch, kteří u nich působí na občanskoprávním základě. Takové rozhodnutí může mít povahu rozhodnutí o organizačních změnách ve smyslu…"
-
----
-
-> **Pokračování:** [02-cast2-zprostredkovani-zamestnani.md](02-cast2-zprostredkovani-zamestnani.md) — Část druhá: zprostředkování zaměstnání, agentury práce, evidence uchazečů a zájemců o zaměstnání, podpora v nezaměstnanosti (§§ 13–77).
+> **Pokračování:** [02-cast2-zprostredkovani-zamestnani.md](02-cast2-zprostredkovani-zamestnani.md) — Část druhá: zprostředkování zaměstnání, agentury práce, evidence uchazečů a zájemců o zaměstnání, podpora v nezaměstnanosti (§§ 14–77).
